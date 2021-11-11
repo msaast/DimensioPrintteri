@@ -1,3 +1,9 @@
+# Mac stuff
+*.DS_Store
+
+# FreeCAD backup file
+*.FCStd
+
 # Prerequisites
 *.d
 
