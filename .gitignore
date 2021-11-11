@@ -2,7 +2,7 @@
 *.DS_Store
 
 # FreeCAD backup file
-*.FCStd
+*.FCStd1
 
 # Prerequisites
 *.d
